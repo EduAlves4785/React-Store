@@ -1,0 +1,95 @@
+{
+  "smartphones": [
+    {
+      "id": 1,
+      "marca": "Samsung",
+      "modelo": "Galaxy A22",
+      "valor": 1281,
+      "imagem": "https://a-static.mlcdn.com.br/800x560/smartphone-samsung-galaxy-a22-128gb-preto-4g-4gb-ram-tela-64-cam-quadrupla-selfie-13mp/magazineluiza/231143600/3cd621180b2ddf660a5a09688932e6c7.jpg",
+      "quantidade": 3,
+      "sobre": "128GB 4G Wi-Fi Tela 6.4'' Dual Chip 4GB RAM Câmera Quádrupla + Selfie 13MP - Preto"
+    },
+    {
+      "id": 2,
+      "marca": "Samsung",
+      "modelo": "Galaxy A03",
+      "valor": 684,
+      "imagem": "https://a-static.mlcdn.com.br/800x560/smartphone-samsung-galaxy-a03-core-32gb-preto-4g-octa-core-2gb-ram-65-cam-8mp-selfie-5mp/magazineluiza/233989800/e5f2a4c097ef55803f7423f6f846b8b1.jpg",
+      "quantidade": 5,
+      "sobre": "32GB 4G Wi-Fi Tela 6,5'' Dual Chip 2GB RAM Câmera 8MP + Selfie 5MP - Preto"
+    },
+    {
+      "id": 3,
+      "marca": "Samsung",
+      "modelo": "Galaxy M23",
+      "valor": 1799,
+      "imagem": "https://a-static.mlcdn.com.br/800x560/smartphone-samsung-galaxy-m23-128gb-azul-5g-octa-core-6gb-ram-66-cam-tripla-selfie-8mp/magazineluiza/234879000/a655612a03e49f63db50d366cdc00dd6.jpg",
+      "quantidade": 2,
+      "sobre": "5G 128GB Processador Snapdragon Tela 6.6 Dual Chip 6GB RAM Câmera Tripla + Selfie 8MP - Branco"
+    },
+    {
+      "id": 4,
+      "marca": "Samsung",
+      "modelo": "Galaxy A53",
+      "valor": 2039,
+      "imagem": "https://a-static.mlcdn.com.br/800x560/smartphone-samsung-galaxy-a53-128gb-branco-5g-8gb-ram-65-cam-quadrupla-selfie-32mp/magazineluiza/234751500/3b1300997e96cd5c37c233f234a8d3f0.jpg",
+      "quantidade": 2,
+      "sobre": "5G 128GB Tela 6.5'' Dual Chip 8GB RAM Câmera Quádrupla + Selfie 32MP - Branco"
+    },
+    {
+      "id": 5,
+      "marca": "Motorola",
+      "modelo": "Moto G22",
+      "valor": 1188,
+      "imagem": "https://a-static.mlcdn.com.br/800x560/smartphone-motorola-moto-g22-128gb-verde-4g-octa-core-4gb-ram-65-cam-quadrupla-selfie-16mp/magazineluiza/234607200/b17e44034a418bfb285468a7a03a0452.jpg",
+      "quantidade": 4,
+      "sobre": "128GB 4G Wi-Fi Tela 6.5'' Dual Chip 4GB RAM Câmera Quádrupla + Selfie 16MP - Verde"
+    },
+    {
+      "id": 6,
+      "marca": "Apple",
+      "modelo": "iPhone 11",
+      "valor": 2999,
+      "imagem": "https://a-static.mlcdn.com.br/800x560/iphone-11-apple-64gb-branco-61-12mp-ios/magazineluiza/155614100/af1cd7d9c89d7306b52490a0ce1b8b34.jpg",
+      "quantidade": 5,
+      "sobre": "(64GB) Branco Tela 6,1 4G Câmera 12MP iOS"
+    },
+    {
+      "id": 7,
+      "marca": "Apple",
+      "modelo": "iPhone 13",
+      "valor": 5399,
+      "imagem": "https://a-static.mlcdn.com.br/800x560/apple-iphone-13-128gb-meia-noite-tela-61-12mp-ios/magazineluiza/234661800/a57c1ab14765ab0b7ca87de98ba94b94.jpg",
+      "quantidade": 3,
+      "sobre": "128GB iOS 5G Wi-Fi Tela 6.1'' Câmera Dupla 12MP - Preto"
+    },
+    {
+      "id": 8,
+      "marca": "Xiaomi",
+      "modelo": "Redmi 9i",
+      "valor": 757,
+      "imagem": "https://m.media-amazon.com/images/I/51sXNtrbKFL._AC_SX425_.jpg",
+      "quantidade": 4,
+      "sobre": " Sport 64gb / 4gb Ram Tela 6.53 - Carbon Black"
+    },
+    {
+      "id": 9,
+      "marca": "Xiaomi",
+      "modelo": "Redmi 10C",
+      "valor": 1008,
+      "imagem": "https://www.kibotek.com/wp-content/uploads/2022/04/kiboTEK_redmi_10c_006.jpg",
+      "quantidade": 4,
+      "sobre": "128GB 4GB ram Tela 6,71 - Cinza"
+    },
+    {
+      "id": 10,
+      "marca": "Xiaomi",
+      "modelo": "Redmi Note 11",
+      "valor": 1284,
+      "imagem": "https://imgs.casasbahia.com.br/55048294/1g.jpg?imwidth=500",
+      "quantidade": 3,
+      "sobre": "128GB 6GB ram Câmera Quadrupla + Selfie 16MP Tela 6.67 - Azul"
+    }
+  ],
+  "carrinho": []
+}
