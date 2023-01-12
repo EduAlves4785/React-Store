@@ -5,6 +5,8 @@
 ## Descrição do Projeto
 <p align="left">O site é uma loja de smartphones onde o usuário pode ver os detalhes de cada produto e ir adicionando ao carrinho,na aba de carrinho é possível ver os produtos adicionados e ver o total da compra</p>
 
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7009980904555098112?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Publicação incorporada"></iframe>)
+
 ### 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
